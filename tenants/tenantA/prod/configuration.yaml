@@ -1,0 +1,3 @@
+data:
+  hostname: "prod.tenanta.com"
+  https: false

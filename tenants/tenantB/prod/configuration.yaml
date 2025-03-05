@@ -1,0 +1,3 @@
+data:
+  hostname: "prod.tenantb.com"
+  https: true

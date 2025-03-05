@@ -46,7 +46,7 @@ locals {
         # - Example expected output structure:
         #   {
         #     name = "tenanta-dev"
-        #     hostname = "custom.example.com"
+        #     hostname = "dev.tenanta.com"
         #     ... (other original data)
         #   }
   ])
